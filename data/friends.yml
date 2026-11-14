@@ -1,0 +1,6 @@
+- name: Kujira-ko
+  url: https://kujira-ko.github.io/
+  desc: Hugo 建站
+  image: https://kujira-ko.github.io/avatar/avatar.jpg
+  badge: Hugo
+  remark: 一个可爱的 Hugo 主题
