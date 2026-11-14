@@ -7,9 +7,7 @@ categories: ["汐环"]
 comments: false
 # banner: 
 cover: covers/kujira.webp
-description: "第一卷《失准的刻度》
-- 第 1 场：三铆钉酒馆的退潮窗口
-- 第 2 场：栈桥夜雾与清算师的交易"
+description: "第一卷《失准的刻度》 <br> 第 1 场：三铆钉酒馆的退潮窗口 <br> 第 2 场：栈桥夜雾与清算师的交易"
 ---
 
 # 第一章 三铆钉酒馆的密封铜管

@@ -1,5 +1,5 @@
 ---
-title: "第一章 无风镜界与白塔港"
+title: "第二章 无风镜界与白塔港"
 date: 2026-11-14T22:30:00+08:00
 draft: false
 tags: ["kujira","听潮者航线"]
@@ -7,9 +7,7 @@ categories: ["汐环"]
 comments: false
 # banner: 
 cover: covers/kujira.webp
-description: "第一卷《失准的刻度》
-- 第 3 场：跨越“无风镜界”
-- 第 4 场：白塔港的隔湾对峙"
+description: "第一卷《失准的刻度》 <br> 第 3 场：跨越“无风镜界” <br> 第 4 场：白塔港的隔湾对峙"
 ---
 
 # 第二章 无风镜界与白塔港
